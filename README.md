@@ -186,7 +186,7 @@ ISC License
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido por Luiz Felipe (https://github.com/Luiz-Felip-DEV)
 
 ---
 
