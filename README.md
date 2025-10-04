@@ -29,7 +29,7 @@ API REST completa de autenticação com registro, login e proteção de rotas us
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/autenticacao-node.git
+git clone https://github.com/Luiz-Felip-DEV/autenticacao-node.git
 cd autenticacao-node
 
 # Inicie os containers
