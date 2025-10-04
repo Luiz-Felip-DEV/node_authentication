@@ -29,8 +29,8 @@ API REST completa de autenticação com registro, login e proteção de rotas us
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Luiz-Felip-DEV/autenticacao-node.git
-cd autenticacao-node
+git clone https://github.com/Luiz-Felip-DEV/node_authentication.git
+cd node_authentication
 
 # Inicie os containers
 docker-compose up -d
